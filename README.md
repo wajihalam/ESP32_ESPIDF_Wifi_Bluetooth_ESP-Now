@@ -1,4 +1,4 @@
-# ESP32_ESPIDF_Wifi
+# ESP32_ESPIDF_Wifi_Bluetooth_ESP-NOW
 This repository contains programs for:
 
   1) Connecting the ESP-32 to WiFi. 
